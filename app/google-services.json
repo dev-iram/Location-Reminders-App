@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "942497615940",
+    "project_id": "udacity-maps-project-c6765",
+    "storage_bucket": "udacity-maps-project-c6765.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942497615940:android:e4715073d23a40bdcc2c11",
+        "android_client_info": {
+          "package_name": "com.udacity.locationreminders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942497615940-utgbsbc8pg2r11muf340j67fg0o7efkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.locationreminders",
+            "certificate_hash": "931b6fe4c90d1f4931e132b76c29a448360a5ab0"
+          }
+        },
+        {
+          "client_id": "942497615940-9bhn87vtdkl4fg81h27ef5oflggku4fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWbCMh3dK5ZgoCAr3JG0JeoyN8pxQNMDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942497615940-9bhn87vtdkl4fg81h27ef5oflggku4fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
