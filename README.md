@@ -21,7 +21,6 @@ Allows for a User to login using Firebase UI with email or Google account and en
 ![Copy of Copy of Copy of Copy of ATM Kiosk System (6)](https://github.com/dev-iram/Location-Reminders-App/assets/22479692/1f230e79-d5fc-4f8b-bbd3-ef62f4f60a63)
 
 
-
 ## Application Logo
  <div align="center">
   <image src="https://github.com/dev-iram/Location-Reminders-App/assets/22479692/a830e6e9-a0b8-462e-968a-23776dbaa48e" width="400" />
@@ -64,12 +63,16 @@ Users should have the option to change map type from the toolbar items.
 
 
 
-## 1st Submission  ❌/✅
+## 1st Submission  - Passed✅
 ### 14th February 2024
 ```
+Congratulations 👏👏👏👏
+Your code looks well-structured and neat. You're writing a Kotlin-like code, using all its benefits. You kept the app design simple but made it very pleasant.
 
+You completed this project flawlessly.
+I hope you keep your spirits up and keep working like this.
+We are looking forward to more of your projects.
 ```
-
 
 
 
